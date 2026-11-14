@@ -1,0 +1,2 @@
+# loto6-quickpick
+PythonとStreamlitで作成したロト6のクイックピックWebアプリ
